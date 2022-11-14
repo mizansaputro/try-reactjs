@@ -1,0 +1,15 @@
+.postForm-container{
+    width: 100%;
+    height: 700px;
+    background-color: #eee7da;
+    padding-top: 150px;
+    padding-left: 35%;
+}
+.form-container{
+    background-color: #faf7f1;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-top: 40px;
+}

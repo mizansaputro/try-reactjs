@@ -1,0 +1,103 @@
+.banner-img{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://t-2.tstatic.net/jogja/foto/bank/images/Festival-Lampion-di-Dieng-Culture-Festival.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 800px;
+    width: 100%;
+}
+.banner-img h1{
+    width: 100px;
+    color: white;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 15% ;
+    width: 50%;
+    font-size: 45px;
+    text-align: center;
+}
+.intro-container{
+    margin-top: -40px;
+    background-color: #faf7f1;
+    width: 100%;
+    height: 950px;
+}
+.text-intro{
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 150px;
+    text-align: center;
+    font-size: 40px;
+}
+.img-intro img{
+    width: 150px;
+    height: 150px;
+    padding-top: 40px;
+    padding-left: 45%;
+}
+.branding-container{
+    display: flex;
+    height: 700px;
+    padding-top: 80px;
+}
+.branding-text{
+    border: 5px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+.branding-text p.branding-title, .card-text p.card-title{
+    font-size: 70px;
+    color: #a52a2a;
+    line-height: 1.8cm;
+
+}
+.branding-text p.branding-content, .card-text p.card-body{
+    font-size: 20px;
+    color: black;
+    line-height: 1cm;
+    text-align: justify;
+
+}
+.branding-img{
+    width: 80%;
+    border-color: black;
+    border: 5px;
+}
+.branding-img img{
+    width: 80%;
+    height: 80%;
+}
+.card-container{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 1000px;
+    padding-top: 80px;
+    background-color: #faf7f1;
+}
+.card-text{
+    width: 50%;
+}
+.card-comp{
+    display: flex;
+}
+.comp-container{
+    background-color: #eee7da;
+    width: 300px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.comp-img img{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.comp-text p{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    
+}

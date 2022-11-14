@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sungai Serayu",
+      "body": "Sungai Serayu Sangat Indah"
+    },
+    {
+      "id": 2,
+      "title": "Candi Arjuna",
+      "body": "Candi Arjuna Sangat Keren"
+    },
+    {
+      "id": 1668383907728,
+      "title": "Test",
+      "body": "Testing"
+    }
+  ]
+}

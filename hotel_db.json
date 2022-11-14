@@ -1,0 +1,19 @@
+{
+    "hotel": [
+        {
+            "id": 1,
+            "title": "Honeymoon In Blue Clouds",
+            "body": "Paket liburan yang cocok dinikmati bersama pasangan, menikmati indahnya Banjarnegara bersama yang terkasih",
+            "harga": "Rp 1500000/2 orang",
+            "paket": "2 hari 1 malam"
+            
+        },
+        {
+            "id": 2,
+            "title": "Fun Family Vacation",
+            "body": "Liburan keluarga memang waktu yang dinanti - nanti, jangan lewatkan kesempatan itu.",
+            "harga": "Rp 2.500.000/ 4 orang",
+            "paket": "3 hari 2 malam"
+        }
+    ]
+}

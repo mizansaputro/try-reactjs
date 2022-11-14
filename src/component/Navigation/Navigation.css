@@ -1,0 +1,36 @@
+.nav-container{
+    background-color: #393d40;
+    width: 100%;
+    margin-top: -15px;
+    height: 100px;
+    display: flex;
+    position: fixed;
+    top: 0px;
+}
+.nav-left-container{
+    width: 30%;
+}
+.nav-left-container img{
+    margin-top: 15px;
+    margin-left: 25px;
+    width: 180px;
+    height: 80px;
+}
+.nav-right-container{
+    color: white;
+    display: flex;
+    width: 100%;
+}
+.nav-right-container p {
+    margin-left: 40px;
+    margin-top: 35px;
+    width: 100%;
+    font-size: larger;
+}
+.nav-right-container a {
+    text-decoration: none;
+    color: white;
+}
+.nav-right-container a:hover{
+    color: orange;
+}

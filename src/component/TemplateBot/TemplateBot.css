@@ -1,0 +1,16 @@
+.template-container{
+    padding-top: 50px;
+    background-color: #393d40;
+    width: 100%;
+    height: 400px;
+}
+.template-container .template-img{
+    padding-left: 30%;
+}
+
+.template-container .template-text p {
+    color: white;
+}
+.template-container .template-text{
+    padding-left: 20px;
+}

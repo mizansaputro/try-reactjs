@@ -1,0 +1,69 @@
+.blogpost-container{
+    width: 100%;
+    height: 900px;
+    display: flex;
+    background-color: #faf7f1;
+}
+.navCategory-container{
+    background-color: #eee7da;
+    height: 800px;
+    padding-top: 100px;
+    width: 100%;
+    padding-left: 30px;
+}
+.nav {
+    width: 20%;
+}
+.category-text{
+    padding-top: 80px;
+}
+hr{
+    width: 200px;
+    margin-left: -30px;
+}
+.content-container{
+    padding-top: 140px;
+    padding-left: 20%;
+}
+.cardPost-container{
+    background-color: #eee7da;
+    width: 600px;
+    height: 250px;
+    border-radius: 10px;
+}
+.cardPost-container p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cardPost-container p.card-title{
+    padding-top: 20px;
+    font-size: 40px;
+    color: orangered;
+    text-decoration: underline;
+
+}
+.cardPost-container p.card-body{
+    margin-top: -10px;
+
+}
+
+.action-container{
+    padding-left: 500px;
+}
+.post-btn{
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    border: none;
+    height: 50px;
+}
+button.post-btn:hover {
+    background-color: #eee7da;
+    color: black;
+    cursor: pointer;
+}
+.postForm-container{
+    width: 100%;
+    height: 700px;
+}
